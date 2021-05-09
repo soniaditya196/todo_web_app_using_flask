@@ -27,3 +27,13 @@ pip freeze > requirements.txt
 heroku
 
 heroku login
+
+heroku create todo-web-app-soniaditya196
+
+git remote -v
+
+git push heroku master
+
+
+// website link
+https://todo-web-app-soniaditya196.herokuapp.com/
